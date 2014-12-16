@@ -1,0 +1,7 @@
+C:\Users\Daniel\Source\Repos\OpenGl\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.exe.config
+C:\Users\Daniel\Source\Repos\OpenGl\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.exe
+C:\Users\Daniel\Source\Repos\OpenGl\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.pdb
+C:\Users\Daniel\Source\Repos\OpenGl\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGL.dll
+C:\Users\Daniel\Source\Repos\OpenGl\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Source\Repos\OpenGl\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.exe
+C:\Users\Daniel\Source\Repos\OpenGl\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.pdb
